@@ -2,7 +2,7 @@
 
 💻 2nd-year CSE student @ Chandigarh University
 🔍 Exploring Full Stack Development and Cybersecurity fundamentals
-🎯 Goal: Gain an international tech internship (Australia-focused) by 2026
+🎯 Goal: Gain a tech internship
 🌱 Learning by doing — from DSA practice to building real-world applications
 
 🚀 What I’m Working On
